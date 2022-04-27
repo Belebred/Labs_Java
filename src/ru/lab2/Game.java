@@ -11,6 +11,6 @@ public class Game {
 
     public void Start(){
 //        Todo: Change to cycle
-//        competitions[2].Start(competitions[1].Start(competitions[0].Start(athletes)));
+        competitions[2].Start(competitions[1].Start(competitions[0].Start(athletes)));
         }
     }
